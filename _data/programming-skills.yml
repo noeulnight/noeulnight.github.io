@@ -1,11 +1,15 @@
+- name: Node.js
+  percentage: 80
+  color: success
+
 - name: HTML5/CSS3
-  percentage: 90
+  percentage: 70
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Clang
+  percentage: 60
+  color: secondary
 
 - name: Python
-  percentage: 70
-  color: secondary
+  percentage: 30
+  color: info
