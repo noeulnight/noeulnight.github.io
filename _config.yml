@@ -56,7 +56,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: limtaehyun                     # Your website Shortname on disqus
+  shortname: limtaehyun-dev                     # Your website Shortname on disqus
 
 ### Analytics ###
 analytics:
