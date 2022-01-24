@@ -11,6 +11,8 @@ github: [metadata]
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
