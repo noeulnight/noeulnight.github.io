@@ -2,7 +2,7 @@
 name: 코로나 발열검사 시스템
 tools: [VSC,node.js,express.js,ejs,html,css,bootstrap,mariadb]
 image: /assets/covidtitle.png
-description: 2020년부터 시작한 코로나 바이러스를 학교에서 에방하기 위한 프로젝트입니다.
+description: 2020년부터 시작한 코로나 바이러스를 학교에서 예방하기 위한 프로젝트입니다.
 ---
 
 # 🦠 코로나 발열검사 시스템
